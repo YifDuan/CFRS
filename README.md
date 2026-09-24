@@ -10,5 +10,6 @@ Multimodal Sentiment Analysis (MSA) aims to infer human sentiment by integrating
 
 ## Code Release
 
+The complete code will be released upon acceptance of the paper.
 
 
